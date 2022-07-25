@@ -18,5 +18,6 @@ def do_it():
 	print(df)
 	df.to_excel('../../tests/data/points.xlsx')
 
+
 if __name__ == '__main__':
 	do_it()
