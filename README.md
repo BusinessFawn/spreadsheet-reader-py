@@ -23,3 +23,13 @@
 * `cd ~/git/spreadsheet-reader-py`
 * `source ~/venv/spreadsheet-reader-py/bin/activate`
 * `python main.py`
+
+## Contributing
+
+* `git checkout main`
+* `git pull`
+* `git checkout -b <some descriptive branch name>`
+* DO WORK
+* `git add <files you made changes to>`
+* `git commit -m 'useful commit message'`
+* `git push`
