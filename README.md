@@ -8,7 +8,7 @@
 * Python 3.10 
   * `brew install python@3.10`
 * virtual environment
-  * `python3 -m pip3 install virtualenv`
+  * `python3 -m pip install virtualenv`
 ### Setup
 * Setup GitHub (I like [SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent))
 * `mkdir ~/git`
