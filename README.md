@@ -17,7 +17,7 @@
 * `mkdir ~/venv`
 * `python3 -m venv ~/venv/spreadsheet-reader-py`
 * `source ~/venv/spreadsheet-reader-py/bin/activate`
-* `pip install -r requirements.txt`
+* `pip install -r ~/git/spreadsheet-reader-py/requirements.txt`
 
 ## Run It
 * `cd ~/git/spreadsheet-reader-py`
