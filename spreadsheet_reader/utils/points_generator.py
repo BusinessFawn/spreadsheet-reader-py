@@ -16,7 +16,7 @@ def do_it():
 	df = pd.DataFrame(dates)
 
 	print(df)
-	df.to_excel('../../tests/data/points.xlsx')
+	df.to_excel('../../tests/data/2022-08-01_score.xlsx')
 
 
 if __name__ == '__main__':
